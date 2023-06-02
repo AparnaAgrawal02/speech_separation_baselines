@@ -1,0 +1,22 @@
+==========================================
+SLURM_JOB_ID = 907871
+SLURM_NODELIST = gnode081
+SLURM_JOB_GPUS = 2
+==========================================
+Using cached model `mpariente/ConvTasNet_WHAM!_sepclean`
+420o030v_2.3353_440c020k_-2.3353.wav
+torch.Size([2, 228539])
+Traceback (most recent call last):
+  File "COV_TASNET.py", line 27, in <module>
+    est_sources = model(input)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/asteroid/models/base_models.py", line 219, in forward
+    est_masks = self.forward_masker(tf_rep)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/asteroid/models/base_models.py", line 248, in forward_masker
+    return self.masker(tf_rep)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/asteroid/masknn/convolutional.py", line 203, in forward
+    batch, _, n_frames = mixture_w.size()
+ValueError: too many values to unpack (expected 3)

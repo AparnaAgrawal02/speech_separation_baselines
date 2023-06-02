@@ -1,0 +1,689 @@
+==========================================
+SLURM_JOB_ID = 907807
+SLURM_NODELIST = gnode081
+SLURM_JOB_GPUS = 0
+==========================================
+/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/huggingface_hub/file_download.py:642: FutureWarning: `cached_download` is the legacy way to download files from the HF hub, please consider upgrading to `hf_hub_download`
+  FutureWarning,
+Using cached model `mpariente/ConvTasNet_WHAM!_sepclean`
+mixture_421_qSXuOkxLilMlvHJ_2021-08-1518:18:44.665015+00:00OPLaK.wav
+torch.Size([1, 29760])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.1249, -0.2537, -0.2580],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.0805, -0.1678, -0.1678]]])
+torch.Size([1, 2, 29760])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_421_qSXuOkxLilMlvHJ_2021-08-1518:18:44.665015+00:00OPLaK.wav done
+mixture_221_owCcWVYXKEWKBXR_2021-08-1122:37:25.902170+00:00Cosmz.wav
+torch.Size([1, 44640])
+tensor([[[ 1.6822e-03, -1.4448e-03,  4.8757e-03,  ..., -2.1763e-01,
+          -8.6443e-02,  2.3494e-02],
+         [ 1.8408e-03, -2.7230e-03,  1.7857e-04,  ..., -2.4254e-01,
+          -1.4890e-01, -3.5504e-02]]])
+torch.Size([1, 2, 44640])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_221_owCcWVYXKEWKBXR_2021-08-1122:37:25.902170+00:00Cosmz.wav done
+early_collection1_mixture_218.wav
+torch.Size([1, 44736])
+tensor([[[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]]])
+torch.Size([1, 2, 44736])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  early_collection1_mixture_218.wav done
+mixture_422_WNYMHqNwSYDauXq_2021-08-1915:55:57.445126+00:00gFlVQ.wav
+torch.Size([1, 41760])
+tensor([[[ 0.0013, -0.0014,  0.0041,  ..., -0.3389, -0.4280, -0.1840],
+         [ 0.0029, -0.0037,  0.0016,  ..., -0.2429, -0.3935, -0.1713]]])
+torch.Size([1, 2, 41760])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_422_WNYMHqNwSYDauXq_2021-08-1915:55:57.445126+00:00gFlVQ.wav done
+mixture_220_YRgDBeoITTAuBnQ_2021-08-1122:32:18.923548+00:00WwVHf.wav
+torch.Size([1, 41760])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.4748, -0.4429, -0.1857],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.9663, -0.8524, -0.1831]]])
+torch.Size([1, 2, 41760])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_220_YRgDBeoITTAuBnQ_2021-08-1122:32:18.923548+00:00WwVHf.wav done
+mixture_357_sizIkhArVCIWDzA_2021-08-1812:17:33.120810+00:00wibKw.wav
+torch.Size([1, 48960])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.0945, -0.0301, -0.0485],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.1700, -0.0824, -0.0761]]])
+torch.Size([1, 2, 48960])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_357_sizIkhArVCIWDzA_2021-08-1812:17:33.120810+00:00wibKw.wav done
+mixture_437_KlpYxfwPBQzAPhf_2021-08-2014:56:54.721184+00:00lCqIo.wav
+torch.Size([1, 38400])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -1.6467,  1.7004, -0.4307],
+         [ 0.0000,  0.0000,  0.0000,  ..., -3.9677,  4.4291,  1.5740]]])
+torch.Size([1, 2, 38400])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_437_KlpYxfwPBQzAPhf_2021-08-2014:56:54.721184+00:00lCqIo.wav done
+mixture_400_fjuegLwrUpSQCxj_2021-08-1913:49:35.661895+00:00agSqN.wav
+torch.Size([1, 38400])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -1.3939, -1.6165, -1.7887],
+         [ 0.0000,  0.0000,  0.0000,  ..., -1.1868, -1.1538, -1.2733]]])
+torch.Size([1, 2, 38400])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_400_fjuegLwrUpSQCxj_2021-08-1913:49:35.661895+00:00agSqN.wav done
+mixture_158_PHMLOAQIXHpZZfv_2021-08-1715:35:30.324199+00:00OkCAy.wav
+torch.Size([1, 48960])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.8161, 0.5602, 0.5991],
+         [0.0000, 0.0000, 0.0000,  ..., 0.7187, 0.4400, 0.7611]]])
+torch.Size([1, 2, 48960])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_158_PHMLOAQIXHpZZfv_2021-08-1715:35:30.324199+00:00OkCAy.wav done
+mixture_31_NMfkOoHTZihuzYC_2021-08-2209:02:45.398850+00:00vGNUW.wav
+torch.Size([1, 48960])
+tensor([[[  0.0000,   0.0000,   0.0000,  ...,  -6.7251,  -5.8979,  -6.5446],
+         [  0.0000,   0.0000,   0.0000,  ..., -19.7997, -16.4407, -15.3757]]])
+torch.Size([1, 2, 48960])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_31_NMfkOoHTZihuzYC_2021-08-2209:02:45.398850+00:00vGNUW.wav done
+mixture_127_qfbzuGxgBipBMzK_2021-08-0823:02:03.567154+00:00QonCG.wav
+torch.Size([1, 26400])
+tensor([[[ 0.0020, -0.0008,  0.0043,  ...,  0.0456,  0.0493, -0.1926],
+         [ 0.0019, -0.0048,  0.0011,  ...,  0.0441, -0.1203, -0.4104]]])
+torch.Size([1, 2, 26400])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_127_qfbzuGxgBipBMzK_2021-08-0823:02:03.567154+00:00QonCG.wav done
+mixture_448_zmKhRawcYXqfSmc_2021-08-1613:27:02.961313+00:00rbBtq.wav
+torch.Size([1, 29280])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.1031, 0.0950, 0.1098],
+         [0.0000, 0.0000, 0.0000,  ..., 0.1494, 0.1205, 0.1270]]])
+torch.Size([1, 2, 29280])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_448_zmKhRawcYXqfSmc_2021-08-1613:27:02.961313+00:00rbBtq.wav done
+mixture_231_fskAvAGPqzJNPoc_2021-08-1219:40:29.949066+00:00vxckt.wav
+torch.Size([1, 46560])
+tensor([[[ 0.0000e+00,  0.0000e+00,  0.0000e+00,  ...,  5.2108e-02,
+          -1.0026e-02,  1.0820e-01],
+         [ 0.0000e+00,  0.0000e+00,  0.0000e+00,  ...,  1.0300e-01,
+          -6.7804e-05,  1.2144e-01]]])
+torch.Size([1, 2, 46560])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_231_fskAvAGPqzJNPoc_2021-08-1219:40:29.949066+00:00vxckt.wav done
+early_collection2_mixture_316.wav
+torch.Size([1, 58944])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ...,  0.0114,  0.0599,  0.0445],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.0028,  0.0838,  0.1010]]])
+torch.Size([1, 2, 58944])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  early_collection2_mixture_316.wav done
+mixture_376_LWbLLOFfgXROrZI_2021-08-1818:38:40.421277+00:00HFqsr.wav
+torch.Size([1, 45120])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.0051,  0.0905,  0.0852],
+         [ 0.0000,  0.0000,  0.0000,  ...,  0.0189,  0.0543,  0.0393]]])
+torch.Size([1, 2, 45120])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_376_LWbLLOFfgXROrZI_2021-08-1818:38:40.421277+00:00HFqsr.wav done
+mixture_373_bXtiHAOCiwEVCAn_2021-08-1500:19:47.080892+00:00YiJVS.wav
+torch.Size([1, 24000])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.1319, -0.4245, -0.2632],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.1068, -0.4544, -0.2677]]])
+torch.Size([1, 2, 24000])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_373_bXtiHAOCiwEVCAn_2021-08-1500:19:47.080892+00:00YiJVS.wav done
+mixture_451_iESqKoKYzEEqxLG_2021-08-1613:35:44.578765+00:00AMeCE.wav
+torch.Size([1, 61440])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.3272, 0.3241, 0.3738],
+         [0.0000, 0.0000, 0.0000,  ..., 0.3908, 0.4208, 0.4533]]])
+torch.Size([1, 2, 61440])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_451_iESqKoKYzEEqxLG_2021-08-1613:35:44.578765+00:00AMeCE.wav done
+mixture_211_tOCGXmXfVFlsngF_2021-08-0905:07:40.775630+00:00rRajR.wav
+torch.Size([1, 45600])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.7449, -0.7925, -0.4398],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.5836, -0.6577, -0.3409]]])
+torch.Size([1, 2, 45600])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_211_tOCGXmXfVFlsngF_2021-08-0905:07:40.775630+00:00rRajR.wav done
+mixture_225_mlkqeFdDMwHnZlY_2021-08-1806:10:16.190137+00:00KBMqo.wav
+torch.Size([1, 43200])
+tensor([[[ 2.4504e-03, -3.5818e-05,  4.8433e-03,  ..., -1.1502e-01,
+          -6.2150e-02, -1.1882e-01],
+         [ 1.9849e-03, -5.2491e-03,  1.2907e-03,  ..., -2.6882e-01,
+          -1.5195e-01, -2.3133e-01]]])
+torch.Size([1, 2, 43200])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_225_mlkqeFdDMwHnZlY_2021-08-1806:10:16.190137+00:00KBMqo.wav done
+mixture_355_BcArVWeRNWxaUgE_2021-08-1423:40:25.812772+00:00AFGQy.wav
+torch.Size([1, 26400])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.3209, 0.3692, 0.5162],
+         [0.0000, 0.0000, 0.0000,  ..., 0.3536, 0.3578, 0.5166]]])
+torch.Size([1, 2, 26400])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_355_BcArVWeRNWxaUgE_2021-08-1423:40:25.812772+00:00AFGQy.wav done
+mixture_243_oDSLUlkchVuvaya_2021-08-1402:31:01.985194+00:00ntefg.wav
+torch.Size([1, 44160])
+tensor([[[ 0.0018, -0.0013,  0.0042,  ..., -0.7967, -0.4989, -0.6345],
+         [ 0.0019, -0.0037,  0.0012,  ..., -0.3982, -0.3103, -0.6274]]])
+torch.Size([1, 2, 44160])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_243_oDSLUlkchVuvaya_2021-08-1402:31:01.985194+00:00ntefg.wav done
+mixture_456_JwBjNBhNQYBXXrc_2021-08-1613:46:49.460909+00:00hVLPz.wav
+torch.Size([1, 60480])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.4937, -0.5002, -0.5680],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.5577, -0.4801, -0.4746]]])
+torch.Size([1, 2, 60480])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_456_JwBjNBhNQYBXXrc_2021-08-1613:46:49.460909+00:00hVLPz.wav done
+mixture_343_ppeSWGamRqBpTbh_2021-08-1412:24:33.376146+00:00txONo.wav
+torch.Size([1, 66720])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.1368, 0.1518, 0.2214],
+         [0.0000, 0.0000, 0.0000,  ..., 0.1203, 0.1034, 0.1641]]])
+torch.Size([1, 2, 66720])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_343_ppeSWGamRqBpTbh_2021-08-1412:24:33.376146+00:00txONo.wav done
+mixture_43_TwSJsUMImGTMtcV.wav
+torch.Size([1, 32640])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.1807, 0.0686, 0.1784],
+         [0.0000, 0.0000, 0.0000,  ..., 0.1822, 0.0765, 0.2141]]])
+torch.Size([1, 2, 32640])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_43_TwSJsUMImGTMtcV.wav done
+mixture_8_bYnzlYjwWnJsSIB_2021-08-2121:27:57.307411+00:00GUsWg.wav
+torch.Size([1, 57600])
+tensor([[[ 8.1314e-04, -2.2905e-03,  4.3904e-03,  ...,  3.9722e+00,
+           3.6503e+00,  4.1499e+00],
+         [ 3.0100e-03, -2.1836e-03,  1.6457e-03,  ...,  3.5786e+00,
+           3.1612e+00,  3.5697e+00]]])
+torch.Size([1, 2, 57600])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_8_bYnzlYjwWnJsSIB_2021-08-2121:27:57.307411+00:00GUsWg.wav done
+mixture_521_WNKLhuRXuqGMNlL_2021-08-2117:21:18.888321+00:00bNHPz.wav
+torch.Size([1, 39840])
+tensor([[[ 1.5906e-03, -9.4153e-04,  5.3430e-03,  ...,  1.0512e+00,
+          -5.3323e-01, -4.4741e-01],
+         [ 2.4014e-03, -3.3987e-03,  4.0021e-04,  ...,  1.3373e+00,
+          -2.3544e-01, -1.3691e-01]]])
+torch.Size([1, 2, 39840])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_521_WNKLhuRXuqGMNlL_2021-08-2117:21:18.888321+00:00bNHPz.wav done
+mixture_338_qNsqBpKFyMlaXCt_2021-08-1409:23:47.180242+00:00yKJYL.wav
+torch.Size([1, 54240])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.4033, -0.2237, -0.0152],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.3060, -0.1806, -0.0529]]])
+torch.Size([1, 2, 54240])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_338_qNsqBpKFyMlaXCt_2021-08-1409:23:47.180242+00:00yKJYL.wav done
+mixture_272_dKEQJNfnlodeVQg_2021-08-1806:30:01.407112+00:00pUIMN.wav
+torch.Size([1, 44160])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.0772, 0.1599, 0.2382],
+         [0.0000, 0.0000, 0.0000,  ..., 0.0054, 0.0652, 0.1399]]])
+torch.Size([1, 2, 44160])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_272_dKEQJNfnlodeVQg_2021-08-1806:30:01.407112+00:00pUIMN.wav done
+mixture_438_DPdjdzZKEqRflno_2021-08-2015:02:47.989734+00:00HvqZi.wav
+torch.Size([1, 52320])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.1489, 0.1906, 0.1125],
+         [0.0000, 0.0000, 0.0000,  ..., 0.1844, 0.2155, 0.1303]]])
+torch.Size([1, 2, 52320])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_438_DPdjdzZKEqRflno_2021-08-2015:02:47.989734+00:00HvqZi.wav done
+mixture_441_SujwpNlDOwxFGlB_2021-08-1612:59:58.920069+00:00gkRTB.wav
+torch.Size([1, 38400])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.1406, -0.0369, -0.0638],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.0927, -0.0247, -0.0546]]])
+torch.Size([1, 2, 38400])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_441_SujwpNlDOwxFGlB_2021-08-1612:59:58.920069+00:00gkRTB.wav done
+mixture_129_FNvejalmPucMcBT_2021-08-0903:51:40.174383+00:00MFycX.wav
+torch.Size([1, 57600])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.7027, 1.2698, 0.9565],
+         [0.0000, 0.0000, 0.0000,  ..., 0.7738, 1.2645, 1.0290]]])
+torch.Size([1, 2, 57600])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_129_FNvejalmPucMcBT_2021-08-0903:51:40.174383+00:00MFycX.wav done
+mixture_463_yNuFIKOlbIUEWaQ_2021-08-1616:05:15.578254+00:00yPQpN.wav
+torch.Size([1, 47040])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.1571, -0.2450, -0.1043],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.1299, -0.2253, -0.0276]]])
+torch.Size([1, 2, 47040])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_463_yNuFIKOlbIUEWaQ_2021-08-1616:05:15.578254+00:00yPQpN.wav done
+early_collection3_mixture_19.wav
+torch.Size([1, 40512])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ...,  0.0260, -0.0424, -0.0305],
+         [ 0.0000,  0.0000,  0.0000,  ...,  0.0641, -0.0678, -0.0571]]])
+torch.Size([1, 2, 40512])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  early_collection3_mixture_19.wav done
+mixture_120_JepVwZPtoPAPJoi_2021-08-0818:34:22.003892+00:00LXOhq.wav
+torch.Size([1, 64800])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.1885, 0.0382, 0.1979],
+         [0.0000, 0.0000, 0.0000,  ..., 0.2004, 0.0424, 0.1602]]])
+torch.Size([1, 2, 64800])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_120_JepVwZPtoPAPJoi_2021-08-0818:34:22.003892+00:00LXOhq.wav done
+mixture_111_aCuPKFNALlIVbOl.wav
+torch.Size([1, 34080])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.0583, -0.0525, -0.0476],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.0597, -0.0922, -0.1130]]])
+torch.Size([1, 2, 34080])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_111_aCuPKFNALlIVbOl.wav done
+mixture_100_EKehzKeCGJFLFkj.wav
+torch.Size([1, 67680])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.1105,  0.1234,  0.0146],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.1280,  0.2094,  0.0532]]])
+torch.Size([1, 2, 67680])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_100_EKehzKeCGJFLFkj.wav done
+mixture_156_MiDZPEGrCVZwMPu_2021-08-1715:23:20.112959+00:00yfsRl.wav
+torch.Size([1, 47520])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.2815, -0.0750,  0.0736],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.3763, -0.1762,  0.0647]]])
+torch.Size([1, 2, 47520])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_156_MiDZPEGrCVZwMPu_2021-08-1715:23:20.112959+00:00yfsRl.wav done
+mixture_353_xJgXmghhCQnuNEJ_2021-08-1421:35:00.538259+00:00GfxIJ.wav
+torch.Size([1, 40800])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ...,  4.1710,  4.7424,  5.6851],
+         [ 0.0000,  0.0000,  0.0000,  ...,  7.0201,  8.2987, 10.0000]]])
+torch.Size([1, 2, 40800])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_353_xJgXmghhCQnuNEJ_2021-08-1421:35:00.538259+00:00GfxIJ.wav done
+mixture_465_xvrpQwyPCbKRmmQ_2021-08-2023:34:17.954560+00:00XFfsK.wav
+torch.Size([1, 30240])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.0316, -0.0305, -0.0275],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.0439, -0.0381, -0.0292]]])
+torch.Size([1, 2, 30240])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_465_xvrpQwyPCbKRmmQ_2021-08-2023:34:17.954560+00:00XFfsK.wav done
+mixture_63_CPFryOYZvKXFuTU_2021-08-2223:03:42.142017+00:00fqIMu.wav
+torch.Size([1, 45600])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.6279,  0.1577,  1.4903],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.4416,  0.1764,  1.4768]]])
+torch.Size([1, 2, 45600])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_63_CPFryOYZvKXFuTU_2021-08-2223:03:42.142017+00:00fqIMu.wav done
+mixture_19_vzvyvJWJExsITFe.wav
+torch.Size([1, 30240])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.0966, 0.4013, 0.5209],
+         [0.0000, 0.0000, 0.0000,  ..., 0.0213, 0.3121, 0.3942]]])
+torch.Size([1, 2, 30240])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_19_vzvyvJWJExsITFe.wav done
+mixture_493_pbGBXBGRPyiSWYI_2021-08-1705:33:46.807191+00:00JMVvL.wav
+torch.Size([1, 36000])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.5405, -0.8677, -0.8473],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.5640, -1.0307, -1.0730]]])
+torch.Size([1, 2, 36000])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_493_pbGBXBGRPyiSWYI_2021-08-1705:33:46.807191+00:00JMVvL.wav done
+mixture_471_zELMjYvftFkbNYM_2021-08-1617:01:40.886929+00:00XkTjN.wav
+torch.Size([1, 37920])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ...,  0.0104, -0.0627, -0.0949],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.0070, -0.0762, -0.0956]]])
+torch.Size([1, 2, 37920])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_471_zELMjYvftFkbNYM_2021-08-1617:01:40.886929+00:00XkTjN.wav done
+mixture_35_pgGNnCneHkzQyet_2021-08-2209:50:55.867277+00:00NmEqn.wav
+torch.Size([1, 43350])
+tensor([[[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]]])
+torch.Size([1, 2, 43350])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_35_pgGNnCneHkzQyet_2021-08-2209:50:55.867277+00:00NmEqn.wav done
+mixture_226_HvJGnyigsqnJvEB_2021-08-1200:29:00.805086+00:00IOANA.wav
+torch.Size([1, 54720])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 1.7587, 2.1946, 2.7180],
+         [0.0000, 0.0000, 0.0000,  ..., 3.2616, 3.1727, 3.4347]]])
+torch.Size([1, 2, 54720])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_226_HvJGnyigsqnJvEB_2021-08-1200:29:00.805086+00:00IOANA.wav done
+mixture_427_FDZZKxpSMFzayGt_2021-08-1603:06:45.952635+00:00nXecb.wav
+torch.Size([1, 61920])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ...,  6.5893,  6.8684,  8.0498],
+         [ 0.0000,  0.0000,  0.0000,  ..., 11.6905, 10.2830, 10.4938]]])
+torch.Size([1, 2, 61920])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_427_FDZZKxpSMFzayGt_2021-08-1603:06:45.952635+00:00nXecb.wav done
+mixture_467_QgyGsNavvTRKrGm_2021-08-1616:49:32.862250+00:00GjjHE.wav
+torch.Size([1, 75840])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -1.8463, -1.6078, -1.4526],
+         [ 0.0000,  0.0000,  0.0000,  ..., -1.4509, -1.2925, -1.2010]]])
+torch.Size([1, 2, 75840])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_467_QgyGsNavvTRKrGm_2021-08-1616:49:32.862250+00:00GjjHE.wav done
+mixture_157_klbnikNAQnwBlPf_2021-08-1715:32:01.100748+00:00yEipf.wav
+torch.Size([1, 46560])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ...,  0.0705,  0.0241,  0.0170],
+         [ 0.0000,  0.0000,  0.0000,  ...,  0.0260, -0.0068, -0.0080]]])
+torch.Size([1, 2, 46560])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_157_klbnikNAQnwBlPf_2021-08-1715:32:01.100748+00:00yEipf.wav done
+mixture_236_POvGQBqfhiiBnWR_2021-08-1315:37:35.768766+00:00bUUlL.wav
+torch.Size([1, 34080])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.0420, -0.0807, -0.0560],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.0730, -0.1091, -0.0772]]])
+torch.Size([1, 2, 34080])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_236_POvGQBqfhiiBnWR_2021-08-1315:37:35.768766+00:00bUUlL.wav done
+mixture_469_VrFFHNLFhJvUTOb_2021-08-1616:54:56.456889+00:00kyvLr.wav
+torch.Size([1, 60960])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ...,  0.0794,  0.1703, -0.0120],
+         [ 0.0000,  0.0000,  0.0000,  ...,  0.3789,  0.3587,  0.0102]]])
+torch.Size([1, 2, 60960])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_469_VrFFHNLFhJvUTOb_2021-08-1616:54:56.456889+00:00kyvLr.wav done
+mixture_448_NztYxNjyCSzUAjT_2021-08-2017:02:24.409992+00:00DtWNd.wav
+torch.Size([1, 28320])
+tensor([[[ 1.3634e-03, -1.6777e-03,  4.1047e-03,  ...,  3.9584e-01,
+           1.7602e+00,  2.3192e+00],
+         [ 2.1407e-03, -3.4767e-03,  1.2177e-03,  ...,  5.2826e-01,
+           1.3696e+00,  1.6758e+00]]])
+torch.Size([1, 2, 28320])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_448_NztYxNjyCSzUAjT_2021-08-2017:02:24.409992+00:00DtWNd.wav done
+mixture_242_CbvplGzltyYHorH_2021-08-1402:30:12.379832+00:00wYxaJ.wav
+torch.Size([1, 7851])
+tensor([[[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]]])
+torch.Size([1, 2, 7851])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_242_CbvplGzltyYHorH_2021-08-1402:30:12.379832+00:00wYxaJ.wav done
+mixture_49_TiVfjOyWSWpXqqB_2021-08-2220:59:47.214401+00:00alAhW.wav
+torch.Size([1, 40800])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.1085, 0.0842, 0.0648],
+         [0.0000, 0.0000, 0.0000,  ..., 0.1288, 0.0952, 0.0680]]])
+torch.Size([1, 2, 40800])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_49_TiVfjOyWSWpXqqB_2021-08-2220:59:47.214401+00:00alAhW.wav done
+mixture_432_QdfCoNyZBjzSTBR_2021-08-1607:48:04.395081+00:00NsIuV.wav
+torch.Size([1, 38400])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -3.7246, -4.2347, -4.4288],
+         [ 0.0000,  0.0000,  0.0000,  ..., -6.3938, -7.0484, -7.3194]]])
+torch.Size([1, 2, 38400])
+name:  mpariente/ConvTasNet_WHAM!_sepclean file:  mixture_432_QdfCoNyZBjzSTBR_2021-08-1607:48:04.395081+00:00NsIuV.wav done
+Downloading pytorch_model.bin:   0%|          | 0.00/20.3M [00:00<?, ?B/s]Downloading pytorch_model.bin:  52%|█████▏    | 10.5M/20.3M [00:00<00:00, 41.2MB/s]Downloading pytorch_model.bin: 100%|██████████| 20.3M/20.3M [00:00<00:00, 47.9MB/s]Downloading pytorch_model.bin: 100%|██████████| 20.3M/20.3M [00:00<00:00, 46.1MB/s]
+mixture_421_qSXuOkxLilMlvHJ_2021-08-1518:18:44.665015+00:00OPLaK.wav
+torch.Size([1, 29760])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -2.2756, -3.6771, -3.5635],
+         [ 0.0000,  0.0000,  0.0000,  ..., -1.4589, -2.5181, -2.6305]]])
+torch.Size([1, 2, 29760])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_421_qSXuOkxLilMlvHJ_2021-08-1518:18:44.665015+00:00OPLaK.wav done
+mixture_221_owCcWVYXKEWKBXR_2021-08-1122:37:25.902170+00:00Cosmz.wav
+torch.Size([1, 44640])
+tensor([[[-2.5209e-03, -4.3238e-02,  3.3608e-02,  ..., -3.2419e+00,
+          -1.2474e+00,  1.1371e+00],
+         [ 3.7207e-02, -2.9542e-03,  8.8638e-02,  ..., -3.1912e+00,
+          -1.7917e+00,  1.0355e-01]]])
+torch.Size([1, 2, 44640])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_221_owCcWVYXKEWKBXR_2021-08-1122:37:25.902170+00:00Cosmz.wav done
+early_collection1_mixture_218.wav
+torch.Size([1, 44736])
+tensor([[[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]]])
+torch.Size([1, 2, 44736])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  early_collection1_mixture_218.wav done
+mixture_422_WNYMHqNwSYDauXq_2021-08-1915:55:57.445126+00:00gFlVQ.wav
+torch.Size([1, 41760])
+tensor([[[ 1.6155e-03, -5.3430e-02,  4.0540e-02,  ..., -4.9534e+00,
+          -7.1378e+00, -3.4942e+00],
+         [ 3.4075e-02,  6.2311e-03,  7.7069e-02,  ..., -3.1190e+00,
+          -4.7142e+00, -2.8151e+00]]])
+torch.Size([1, 2, 41760])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_422_WNYMHqNwSYDauXq_2021-08-1915:55:57.445126+00:00gFlVQ.wav done
+mixture_220_YRgDBeoITTAuBnQ_2021-08-1122:32:18.923548+00:00WwVHf.wav
+torch.Size([1, 41760])
+tensor([[[  0.0000,   0.0000,   0.0000,  ..., -10.6077, -12.3288,  -5.9816],
+         [  0.0000,   0.0000,   0.0000,  ...,  -9.1895, -12.6969,  -5.2581]]])
+torch.Size([1, 2, 41760])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_220_YRgDBeoITTAuBnQ_2021-08-1122:32:18.923548+00:00WwVHf.wav done
+mixture_357_sizIkhArVCIWDzA_2021-08-1812:17:33.120810+00:00wibKw.wav
+torch.Size([1, 48960])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -2.2770, -0.6079, -0.2518],
+         [ 0.0000,  0.0000,  0.0000,  ..., -1.7093, -0.7481, -0.6908]]])
+torch.Size([1, 2, 48960])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_357_sizIkhArVCIWDzA_2021-08-1812:17:33.120810+00:00wibKw.wav done
+mixture_437_KlpYxfwPBQzAPhf_2021-08-2014:56:54.721184+00:00lCqIo.wav
+torch.Size([1, 38400])
+tensor([[[  0.0000,   0.0000,   0.0000,  ..., -47.8742,  65.9222,  32.9277],
+         [  0.0000,   0.0000,   0.0000,  ..., -39.7266,  49.0305,  32.9966]]])
+torch.Size([1, 2, 38400])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_437_KlpYxfwPBQzAPhf_2021-08-2014:56:54.721184+00:00lCqIo.wav done
+mixture_400_fjuegLwrUpSQCxj_2021-08-1913:49:35.661895+00:00agSqN.wav
+torch.Size([1, 38400])
+tensor([[[  0.0000,   0.0000,   0.0000,  ..., -24.2402, -24.0594, -23.2939],
+         [  0.0000,   0.0000,   0.0000,  ..., -14.8382, -15.2801, -16.6092]]])
+torch.Size([1, 2, 38400])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_400_fjuegLwrUpSQCxj_2021-08-1913:49:35.661895+00:00agSqN.wav done
+mixture_158_PHMLOAQIXHpZZfv_2021-08-1715:35:30.324199+00:00OkCAy.wav
+torch.Size([1, 48960])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ...,  9.4717,  5.5934,  9.7592],
+         [ 0.0000,  0.0000,  0.0000,  ..., 14.0958,  8.6466, 12.4294]]])
+torch.Size([1, 2, 48960])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_158_PHMLOAQIXHpZZfv_2021-08-1715:35:30.324199+00:00OkCAy.wav done
+mixture_31_NMfkOoHTZihuzYC_2021-08-2209:02:45.398850+00:00vGNUW.wav
+torch.Size([1, 48960])
+tensor([[[   0.0000,    0.0000,    0.0000,  ..., -110.1851,  -98.6751,
+          -111.4014],
+         [   0.0000,    0.0000,    0.0000,  ..., -333.1320, -293.2560,
+          -268.0830]]])
+torch.Size([1, 2, 48960])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_31_NMfkOoHTZihuzYC_2021-08-2209:02:45.398850+00:00vGNUW.wav done
+mixture_127_qfbzuGxgBipBMzK_2021-08-0823:02:03.567154+00:00QonCG.wav
+torch.Size([1, 26400])
+tensor([[[-2.2776e-03, -4.7640e-02,  4.1794e-02,  ...,  3.3286e+00,
+          -3.3161e-01, -5.6169e+00],
+         [ 3.8930e-02,  1.3993e-02,  7.0419e-02,  ...,  1.5903e+00,
+          -2.1944e-01, -4.6264e+00]]])
+torch.Size([1, 2, 26400])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_127_qfbzuGxgBipBMzK_2021-08-0823:02:03.567154+00:00QonCG.wav done
+mixture_448_zmKhRawcYXqfSmc_2021-08-1613:27:02.961313+00:00rbBtq.wav
+torch.Size([1, 29280])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 2.0902, 1.5962, 1.6004],
+         [0.0000, 0.0000, 0.0000,  ..., 1.5307, 1.3287, 1.5882]]])
+torch.Size([1, 2, 29280])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_448_zmKhRawcYXqfSmc_2021-08-1613:27:02.961313+00:00rbBtq.wav done
+mixture_231_fskAvAGPqzJNPoc_2021-08-1219:40:29.949066+00:00vxckt.wav
+torch.Size([1, 46560])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 1.3680, 0.4366, 1.9134],
+         [0.0000, 0.0000, 0.0000,  ..., 0.7661, 0.0842, 1.3373]]])
+torch.Size([1, 2, 46560])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_231_fskAvAGPqzJNPoc_2021-08-1219:40:29.949066+00:00vxckt.wav done
+early_collection2_mixture_316.wav
+torch.Size([1, 58944])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.2036, 1.3637, 1.3979],
+         [0.0000, 0.0000, 0.0000,  ..., 0.1487, 0.8839, 0.8980]]])
+torch.Size([1, 2, 58944])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  early_collection2_mixture_316.wav done
+mixture_376_LWbLLOFfgXROrZI_2021-08-1818:38:40.421277+00:00HFqsr.wav
+torch.Size([1, 45120])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.3844, 1.5193, 1.2223],
+         [0.0000, 0.0000, 0.0000,  ..., 0.1887, 1.0858, 0.9856]]])
+torch.Size([1, 2, 45120])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_376_LWbLLOFfgXROrZI_2021-08-1818:38:40.421277+00:00HFqsr.wav done
+mixture_373_bXtiHAOCiwEVCAn_2021-08-1500:19:47.080892+00:00YiJVS.wav
+torch.Size([1, 24000])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -1.6996, -5.6014, -3.5637],
+         [ 0.0000,  0.0000,  0.0000,  ..., -2.8129, -9.9447, -6.7597]]])
+torch.Size([1, 2, 24000])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_373_bXtiHAOCiwEVCAn_2021-08-1500:19:47.080892+00:00YiJVS.wav done
+mixture_451_iESqKoKYzEEqxLG_2021-08-1613:35:44.578765+00:00AMeCE.wav
+torch.Size([1, 61440])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 4.8001, 5.1177, 5.7252],
+         [0.0000, 0.0000, 0.0000,  ..., 6.3416, 7.2117, 8.0205]]])
+torch.Size([1, 2, 61440])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_451_iESqKoKYzEEqxLG_2021-08-1613:35:44.578765+00:00AMeCE.wav done
+mixture_211_tOCGXmXfVFlsngF_2021-08-0905:07:40.775630+00:00rRajR.wav
+torch.Size([1, 45600])
+tensor([[[  0.0000,   0.0000,   0.0000,  ..., -12.3814, -13.6865,  -7.4426],
+         [  0.0000,   0.0000,   0.0000,  ..., -10.4996, -11.7080,  -7.1742]]])
+torch.Size([1, 2, 45600])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_211_tOCGXmXfVFlsngF_2021-08-0905:07:40.775630+00:00rRajR.wav done
+mixture_225_mlkqeFdDMwHnZlY_2021-08-1806:10:16.190137+00:00KBMqo.wav
+torch.Size([1, 43200])
+tensor([[[ 2.0945e-03, -5.1101e-02,  4.1700e-02,  ..., -2.5603e+00,
+          -1.4010e+00, -2.1903e+00],
+         [ 2.8912e-02,  1.1178e-02,  5.9397e-02,  ..., -1.9762e+00,
+          -1.3177e+00, -1.9716e+00]]])
+torch.Size([1, 2, 43200])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_225_mlkqeFdDMwHnZlY_2021-08-1806:10:16.190137+00:00KBMqo.wav done
+mixture_355_BcArVWeRNWxaUgE_2021-08-1423:40:25.812772+00:00AFGQy.wav
+torch.Size([1, 26400])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 7.3835, 7.4241, 9.7235],
+         [0.0000, 0.0000, 0.0000,  ..., 3.4175, 3.8050, 5.5154]]])
+torch.Size([1, 2, 26400])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_355_BcArVWeRNWxaUgE_2021-08-1423:40:25.812772+00:00AFGQy.wav done
+mixture_243_oDSLUlkchVuvaya_2021-08-1402:31:01.985194+00:00ntefg.wav
+torch.Size([1, 44160])
+tensor([[[-6.2668e-04, -5.2835e-02,  4.2841e-02,  ..., -9.2685e+00,
+          -6.7162e+00, -1.1610e+01],
+         [ 3.0547e-02, -2.6481e-03,  6.3726e-02,  ..., -6.5766e+00,
+          -5.3714e+00, -8.4005e+00]]])
+torch.Size([1, 2, 44160])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_243_oDSLUlkchVuvaya_2021-08-1402:31:01.985194+00:00ntefg.wav done
+mixture_456_JwBjNBhNQYBXXrc_2021-08-1613:46:49.460909+00:00hVLPz.wav
+torch.Size([1, 60480])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -8.9102, -8.5265, -8.9064],
+         [ 0.0000,  0.0000,  0.0000,  ..., -7.2793, -6.9760, -7.4709]]])
+torch.Size([1, 2, 60480])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_456_JwBjNBhNQYBXXrc_2021-08-1613:46:49.460909+00:00hVLPz.wav done
+mixture_343_ppeSWGamRqBpTbh_2021-08-1412:24:33.376146+00:00txONo.wav
+torch.Size([1, 66720])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 1.7210, 1.8634, 2.6881],
+         [0.0000, 0.0000, 0.0000,  ..., 1.8963, 2.0186, 2.8033]]])
+torch.Size([1, 2, 66720])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_343_ppeSWGamRqBpTbh_2021-08-1412:24:33.376146+00:00txONo.wav done
+mixture_43_TwSJsUMImGTMtcV.wav
+torch.Size([1, 32640])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.7803, 0.9193, 3.5556],
+         [0.0000, 0.0000, 0.0000,  ..., 1.1286, 1.1758, 2.4539]]])
+torch.Size([1, 2, 32640])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_43_TwSJsUMImGTMtcV.wav done
+mixture_8_bYnzlYjwWnJsSIB_2021-08-2121:27:57.307411+00:00GUsWg.wav
+torch.Size([1, 57600])
+tensor([[[-9.6936e-04, -4.5785e-02,  4.4818e-02,  ...,  6.7630e+01,
+           6.1810e+01,  6.5290e+01],
+         [ 3.0086e-02, -1.0437e-02,  7.6334e-02,  ...,  3.7834e+01,
+           3.7390e+01,  4.4926e+01]]])
+torch.Size([1, 2, 57600])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_8_bYnzlYjwWnJsSIB_2021-08-2121:27:57.307411+00:00GUsWg.wav done
+mixture_521_WNKLhuRXuqGMNlL_2021-08-2117:21:18.888321+00:00bNHPz.wav
+torch.Size([1, 39840])
+tensor([[[ 1.0922e-02, -3.5075e-02,  4.9625e-02,  ...,  2.2922e+01,
+          -1.7614e+00, -3.3771e+00],
+         [ 2.9654e-02, -1.4956e-02,  6.8657e-02,  ...,  1.0726e+01,
+          -5.7974e+00, -5.0931e+00]]])
+torch.Size([1, 2, 39840])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_521_WNKLhuRXuqGMNlL_2021-08-2117:21:18.888321+00:00bNHPz.wav done
+mixture_338_qNsqBpKFyMlaXCt_2021-08-1409:23:47.180242+00:00yKJYL.wav
+torch.Size([1, 54240])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -4.2214, -2.3438,  0.3891],
+         [ 0.0000,  0.0000,  0.0000,  ..., -4.7122, -3.1885, -0.9545]]])
+torch.Size([1, 2, 54240])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_338_qNsqBpKFyMlaXCt_2021-08-1409:23:47.180242+00:00yKJYL.wav done
+mixture_272_dKEQJNfnlodeVQg_2021-08-1806:30:01.407112+00:00pUIMN.wav
+torch.Size([1, 44160])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.3379, 1.5271, 2.7122],
+         [0.0000, 0.0000, 0.0000,  ..., 0.9731, 2.2715, 3.4502]]])
+torch.Size([1, 2, 44160])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_272_dKEQJNfnlodeVQg_2021-08-1806:30:01.407112+00:00pUIMN.wav done
+mixture_438_DPdjdzZKEqRflno_2021-08-2015:02:47.989734+00:00HvqZi.wav
+torch.Size([1, 52320])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 2.2329, 2.8869, 1.5919],
+         [0.0000, 0.0000, 0.0000,  ..., 2.6494, 3.3075, 2.3213]]])
+torch.Size([1, 2, 52320])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_438_DPdjdzZKEqRflno_2021-08-2015:02:47.989734+00:00HvqZi.wav done
+mixture_441_SujwpNlDOwxFGlB_2021-08-1612:59:58.920069+00:00gkRTB.wav
+torch.Size([1, 38400])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -1.9390, -1.4951, -1.3048],
+         [ 0.0000,  0.0000,  0.0000,  ..., -1.7347, -0.9105, -0.8045]]])
+torch.Size([1, 2, 38400])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_441_SujwpNlDOwxFGlB_2021-08-1612:59:58.920069+00:00gkRTB.wav done
+mixture_129_FNvejalmPucMcBT_2021-08-0903:51:40.174383+00:00MFycX.wav
+torch.Size([1, 57600])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., 10.4961, 22.0793, 20.6093],
+         [ 0.0000,  0.0000,  0.0000,  ...,  9.0769, 16.9310, 15.5236]]])
+torch.Size([1, 2, 57600])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_129_FNvejalmPucMcBT_2021-08-0903:51:40.174383+00:00MFycX.wav done
+mixture_463_yNuFIKOlbIUEWaQ_2021-08-1616:05:15.578254+00:00yPQpN.wav
+torch.Size([1, 47040])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -3.3060, -4.8319, -0.7211],
+         [ 0.0000,  0.0000,  0.0000,  ..., -1.5584, -3.1512, -0.0684]]])
+torch.Size([1, 2, 47040])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_463_yNuFIKOlbIUEWaQ_2021-08-1616:05:15.578254+00:00yPQpN.wav done
+early_collection3_mixture_19.wav
+torch.Size([1, 40512])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ...,  0.4989, -0.8364, -0.8338],
+         [ 0.0000,  0.0000,  0.0000,  ...,  0.5532, -0.6890, -0.6076]]])
+torch.Size([1, 2, 40512])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  early_collection3_mixture_19.wav done
+mixture_120_JepVwZPtoPAPJoi_2021-08-0818:34:22.003892+00:00LXOhq.wav
+torch.Size([1, 64800])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 2.7333, 0.3745, 2.4950],
+         [0.0000, 0.0000, 0.0000,  ..., 1.9476, 0.8631, 2.0169]]])
+torch.Size([1, 2, 64800])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_120_JepVwZPtoPAPJoi_2021-08-0818:34:22.003892+00:00LXOhq.wav done
+mixture_111_aCuPKFNALlIVbOl.wav
+torch.Size([1, 34080])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.7132, -0.6814, -0.8200],
+         [ 0.0000,  0.0000,  0.0000,  ..., -1.1969, -1.3957, -1.6160]]])
+torch.Size([1, 2, 34080])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_111_aCuPKFNALlIVbOl.wav done
+mixture_100_EKehzKeCGJFLFkj.wav
+torch.Size([1, 67680])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -1.1800,  2.7768,  0.6648],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.8584,  1.7626,  0.2987]]])
+torch.Size([1, 2, 67680])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_100_EKehzKeCGJFLFkj.wav done
+mixture_156_MiDZPEGrCVZwMPu_2021-08-1715:23:20.112959+00:00yfsRl.wav
+torch.Size([1, 47520])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -5.4761, -2.2102,  0.5581],
+         [ 0.0000,  0.0000,  0.0000,  ..., -4.6154, -1.6099,  0.8687]]])
+torch.Size([1, 2, 47520])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_156_MiDZPEGrCVZwMPu_2021-08-1715:23:20.112959+00:00yfsRl.wav done
+mixture_353_xJgXmghhCQnuNEJ_2021-08-1421:35:00.538259+00:00GfxIJ.wav
+torch.Size([1, 40800])
+tensor([[[  0.0000,   0.0000,   0.0000,  ...,  72.5151,  86.7754, 105.5451],
+         [  0.0000,   0.0000,   0.0000,  ...,  80.7347,  95.4948, 109.8348]]])
+torch.Size([1, 2, 40800])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_353_xJgXmghhCQnuNEJ_2021-08-1421:35:00.538259+00:00GfxIJ.wav done
+mixture_465_xvrpQwyPCbKRmmQ_2021-08-2023:34:17.954560+00:00XFfsK.wav
+torch.Size([1, 30240])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.6286, -0.5380, -0.4284],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.4542, -0.3911, -0.3286]]])
+torch.Size([1, 2, 30240])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_465_xvrpQwyPCbKRmmQ_2021-08-2023:34:17.954560+00:00XFfsK.wav done
+mixture_63_CPFryOYZvKXFuTU_2021-08-2223:03:42.142017+00:00fqIMu.wav
+torch.Size([1, 45600])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -7.8719,  4.3424, 24.3049],
+         [ 0.0000,  0.0000,  0.0000,  ..., -4.8021,  2.0177, 14.4763]]])
+torch.Size([1, 2, 45600])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_63_CPFryOYZvKXFuTU_2021-08-2223:03:42.142017+00:00fqIMu.wav done
+mixture_19_vzvyvJWJExsITFe.wav
+torch.Size([1, 30240])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 1.7132, 6.0653, 7.8342],
+         [0.0000, 0.0000, 0.0000,  ..., 0.9575, 5.3527, 7.0779]]])
+torch.Size([1, 2, 30240])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_19_vzvyvJWJExsITFe.wav done
+mixture_493_pbGBXBGRPyiSWYI_2021-08-1705:33:46.807191+00:00JMVvL.wav
+torch.Size([1, 36000])
+tensor([[[  0.0000,   0.0000,   0.0000,  ...,  -8.5912, -12.4432, -14.0201],
+         [  0.0000,   0.0000,   0.0000,  ..., -10.2525, -12.7516, -14.0006]]])
+torch.Size([1, 2, 36000])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_493_pbGBXBGRPyiSWYI_2021-08-1705:33:46.807191+00:00JMVvL.wav done
+mixture_471_zELMjYvftFkbNYM_2021-08-1617:01:40.886929+00:00XkTjN.wav
+torch.Size([1, 37920])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -0.9413, -1.4207, -1.9197],
+         [ 0.0000,  0.0000,  0.0000,  ...,  0.2332, -0.4704, -0.9763]]])
+torch.Size([1, 2, 37920])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_471_zELMjYvftFkbNYM_2021-08-1617:01:40.886929+00:00XkTjN.wav done
+mixture_35_pgGNnCneHkzQyet_2021-08-2209:50:55.867277+00:00NmEqn.wav
+torch.Size([1, 43350])
+tensor([[[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]]])
+torch.Size([1, 2, 43350])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_35_pgGNnCneHkzQyet_2021-08-2209:50:55.867277+00:00NmEqn.wav done
+mixture_226_HvJGnyigsqnJvEB_2021-08-1200:29:00.805086+00:00IOANA.wav
+torch.Size([1, 54720])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., 51.8708, 52.4044, 53.5303],
+         [ 0.0000,  0.0000,  0.0000,  ..., 27.8916, 31.6013, 38.6216]]])
+torch.Size([1, 2, 54720])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_226_HvJGnyigsqnJvEB_2021-08-1200:29:00.805086+00:00IOANA.wav done
+mixture_427_FDZZKxpSMFzayGt_2021-08-1603:06:45.952635+00:00nXecb.wav
+torch.Size([1, 61920])
+tensor([[[  0.0000,   0.0000,   0.0000,  ..., 145.8155, 134.6075, 138.4391],
+         [  0.0000,   0.0000,   0.0000,  ..., 142.6534, 139.1627, 148.7191]]])
+torch.Size([1, 2, 61920])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_427_FDZZKxpSMFzayGt_2021-08-1603:06:45.952635+00:00nXecb.wav done
+mixture_467_QgyGsNavvTRKrGm_2021-08-1616:49:32.862250+00:00GjjHE.wav
+torch.Size([1, 75840])
+tensor([[[  0.0000,   0.0000,   0.0000,  ..., -35.1856, -30.9135, -27.4291],
+         [  0.0000,   0.0000,   0.0000,  ..., -19.6907, -18.4188, -18.1658]]])
+torch.Size([1, 2, 75840])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_467_QgyGsNavvTRKrGm_2021-08-1616:49:32.862250+00:00GjjHE.wav done
+mixture_157_klbnikNAQnwBlPf_2021-08-1715:32:01.100748+00:00yEipf.wav
+torch.Size([1, 46560])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 0.3443, 0.5677, 0.2727],
+         [0.0000, 0.0000, 0.0000,  ..., 0.6941, 0.5664, 0.0461]]])
+torch.Size([1, 2, 46560])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_157_klbnikNAQnwBlPf_2021-08-1715:32:01.100748+00:00yEipf.wav done
+mixture_236_POvGQBqfhiiBnWR_2021-08-1315:37:35.768766+00:00bUUlL.wav
+torch.Size([1, 34080])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ..., -1.2509, -1.6928, -1.2763],
+         [ 0.0000,  0.0000,  0.0000,  ..., -0.6911, -1.1886, -0.9948]]])
+torch.Size([1, 2, 34080])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_236_POvGQBqfhiiBnWR_2021-08-1315:37:35.768766+00:00bUUlL.wav done
+mixture_469_VrFFHNLFhJvUTOb_2021-08-1616:54:56.456889+00:00kyvLr.wav
+torch.Size([1, 60960])
+tensor([[[ 0.0000,  0.0000,  0.0000,  ...,  5.5251,  5.2553,  0.0493],
+         [ 0.0000,  0.0000,  0.0000,  ...,  1.6475,  1.9098, -0.3907]]])
+torch.Size([1, 2, 60960])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_469_VrFFHNLFhJvUTOb_2021-08-1616:54:56.456889+00:00kyvLr.wav done
+mixture_448_NztYxNjyCSzUAjT_2021-08-2017:02:24.409992+00:00DtWNd.wav
+torch.Size([1, 28320])
+tensor([[[-2.0279e-03, -4.3714e-02,  3.9919e-02,  ...,  8.6537e+00,
+           2.4345e+01,  2.8787e+01],
+         [ 3.7686e-02, -2.6179e-03,  7.6981e-02,  ...,  8.6791e+00,
+           2.3334e+01,  3.0388e+01]]])
+torch.Size([1, 2, 28320])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_448_NztYxNjyCSzUAjT_2021-08-2017:02:24.409992+00:00DtWNd.wav done
+mixture_242_CbvplGzltyYHorH_2021-08-1402:30:12.379832+00:00wYxaJ.wav
+torch.Size([1, 7851])
+tensor([[[0., 0., 0.,  ..., 0., 0., 0.],
+         [0., 0., 0.,  ..., 0., 0., 0.]]])
+torch.Size([1, 2, 7851])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_242_CbvplGzltyYHorH_2021-08-1402:30:12.379832+00:00wYxaJ.wav done
+mixture_49_TiVfjOyWSWpXqqB_2021-08-2220:59:47.214401+00:00alAhW.wav
+torch.Size([1, 40800])
+tensor([[[0.0000, 0.0000, 0.0000,  ..., 1.7614, 1.3408, 0.9452],
+         [0.0000, 0.0000, 0.0000,  ..., 1.5905, 1.2092, 0.9287]]])
+torch.Size([1, 2, 40800])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_49_TiVfjOyWSWpXqqB_2021-08-2220:59:47.214401+00:00alAhW.wav done
+mixture_432_QdfCoNyZBjzSTBR_2021-08-1607:48:04.395081+00:00NsIuV.wav
+torch.Size([1, 38400])
+tensor([[[   0.0000,    0.0000,    0.0000,  ...,  -94.7739, -102.5429,
+          -103.2843],
+         [   0.0000,    0.0000,    0.0000,  ...,  -60.7013,  -71.0710,
+           -77.0749]]])
+torch.Size([1, 2, 38400])
+name:  JorisCos/ConvTasNet_Libri2Mix_sepclean_8k file:  mixture_432_QdfCoNyZBjzSTBR_2021-08-1607:48:04.395081+00:00NsIuV.wav done

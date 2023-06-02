@@ -1,0 +1,6 @@
+==========================================
+SLURM_JOB_ID = 907883
+SLURM_NODELIST = gnode081
+SLURM_JOB_GPUS = 1
+==========================================
+slurmstepd: error: *** JOB 907883 ON gnode081 CANCELLED AT 2023-05-28T22:34:22 ***

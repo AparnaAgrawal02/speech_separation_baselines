@@ -1,0 +1,104 @@
+==========================================
+SLURM_JOB_ID = 907940
+SLURM_NODELIST = gnode081
+SLURM_JOB_GPUS = 2
+==========================================
+2023-05-28 01:20:11,999 - modelscope - INFO - PyTorch version 1.12.0 Found.
+2023-05-28 01:20:12,003 - modelscope - INFO - Loading ast index from /home2/aparna/.cache/modelscope/ast_indexer
+2023-05-28 01:20:12,219 - modelscope - INFO - Loading done! Current index file version is 1.6.0, with md5 46652856d285c841dad4b65219c21ea3 and a total number of 848 components indexed
+2023-05-28 01:20:28,302 - modelscope - INFO - Model revision not specified, use the latest revision: v1.1.2
+2023-05-28 01:20:28,981 - modelscope - INFO - loading model...
+2023-05-28 01:20:28,981 - modelscope - INFO - initiate model from /home2/aparna/.cache/modelscope/hub/damo/speech_mossformer_separation_temporal_8k
+2023-05-28 01:20:28,981 - modelscope - INFO - initiate model from location /home2/aparna/.cache/modelscope/hub/damo/speech_mossformer_separation_temporal_8k.
+2023-05-28 01:20:28,983 - modelscope - INFO - initialize model from /home2/aparna/.cache/modelscope/hub/damo/speech_mossformer_separation_temporal_8k
+2023-05-28 01:20:30,031 - modelscope - WARNING - No preprocessor field found in cfg.
+2023-05-28 01:20:30,032 - modelscope - WARNING - No val key and type key found in preprocessor domain of configuration.json file.
+2023-05-28 01:20:30,032 - modelscope - WARNING - Cannot find available config to build preprocessor at mode inference, current config: {'model_dir': '/home2/aparna/.cache/modelscope/hub/damo/speech_mossformer_separation_temporal_8k'}. trying to build by task and model information.
+2023-05-28 01:20:30,032 - modelscope - WARNING - No preprocessor key ('speech_mossformer_separation_temporal_8k', 'speech-separation') found in PREPROCESSOR_MAP, skip building preprocessor.
+2023-05-28 01:20:32,700 - modelscope - INFO - Start forward...
+2023-05-28 01:20:34,480 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:34,535 - modelscope - INFO - Start forward...
+2023-05-28 01:20:34,870 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:34,927 - modelscope - INFO - Start forward...
+2023-05-28 01:20:35,248 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:35,297 - modelscope - INFO - Start forward...
+2023-05-28 01:20:35,580 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:35,633 - modelscope - INFO - Start forward...
+2023-05-28 01:20:35,970 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:36,023 - modelscope - INFO - Start forward...
+2023-05-28 01:20:36,352 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:36,386 - modelscope - INFO - Start forward...
+2023-05-28 01:20:36,557 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:36,602 - modelscope - INFO - Start forward...
+2023-05-28 01:20:36,853 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:36,895 - modelscope - INFO - Start forward...
+2023-05-28 01:20:37,123 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:37,176 - modelscope - INFO - Start forward...
+2023-05-28 01:20:37,439 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:37,507 - modelscope - INFO - Start forward...
+2023-05-28 01:20:37,972 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:38,015 - modelscope - INFO - Start forward...
+2023-05-28 01:20:38,255 - modelscope - INFO - Finish forward.
+2023-05-28 01:20:38,312 - modelscope - INFO - Start forward...
+420o030v_2.3353_440c020k_-2.3353.wav
+420o030v_2.3353_440c020k_-2.3353.wav
+name:  speech_mossformer_separation_temporal_8k file:  420o030v_2.3353_440c020k_-2.3353.wav done
+050c0115_1.5728_22hc010o_-1.5728.wav
+050c0115_1.5728_22hc010o_-1.5728.wav
+name:  speech_mossformer_separation_temporal_8k file:  050c0115_1.5728_22hc010o_-1.5728.wav done
+444c0201_1.9484_420c020r_-1.9484.wav
+444c0201_1.9484_420c020r_-1.9484.wav
+name:  speech_mossformer_separation_temporal_8k file:  444c0201_1.9484_420c020r_-1.9484.wav done
+050o0204_2.0346_052o0201_-2.0346.wav
+050o0204_2.0346_052o0201_-2.0346.wav
+name:  speech_mossformer_separation_temporal_8k file:  050o0204_2.0346_052o0201_-2.0346.wav done
+444o030r_1.5585_446o030f_-1.5585.wav
+444o030r_1.5585_446o030f_-1.5585.wav
+name:  speech_mossformer_separation_temporal_8k file:  444o030r_1.5585_446o030f_-1.5585.wav done
+445o030c_0.78651_440c020f_-0.78651.wav
+445o030c_0.78651_440c020f_-0.78651.wav
+name:  speech_mossformer_separation_temporal_8k file:  445o030c_0.78651_440c020f_-0.78651.wav done
+051c0104_2.4531_052c010e_-2.4531.wav
+051c0104_2.4531_052c010e_-2.4531.wav
+name:  speech_mossformer_separation_temporal_8k file:  051c0104_2.4531_052c010e_-2.4531.wav done
+053o020m_2.3139_051a0511_-2.3139.wav
+053o020m_2.3139_051a0511_-2.3139.wav
+name:  speech_mossformer_separation_temporal_8k file:  053o020m_2.3139_051a0511_-2.3139.wav done
+441c020h_0.62048_053o0207_-0.62048.wav
+441c020h_0.62048_053o0207_-0.62048.wav
+name:  speech_mossformer_separation_temporal_8k file:  441c020h_0.62048_053o0207_-0.62048.wav done
+22hc0112_1.0573_421a010d_-1.0573.wav
+22hc0112_1.0573_421a010d_-1.0573.wav
+name:  speech_mossformer_separation_temporal_8k file:  22hc0112_1.0573_421a010d_-1.0573.wav done
+050a0505_1.5097_440o030d_-1.5097.wav
+050a0505_1.5097_440o030d_-1.5097.wav
+name:  speech_mossformer_separation_temporal_8k file:  050a0505_1.5097_440o030d_-1.5097.wav done
+051c010u_0.23405_22ga010t_-0.23405.wav
+051c010u_0.23405_22ga010t_-0.23405.wav
+name:  speech_mossformer_separation_temporal_8k file:  051c010u_0.23405_22ga010t_-0.23405.wav done
+22ha0101_0.049262_446o030h_-0.049262.wav
+22ha0101_0.049262_446o030h_-0.049262.wav
+Traceback (most recent call last):
+  File "mossformer.py", line 32, in <module>
+    result = separation("temp.wav")
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/modelscope/pipelines/base.py", line 212, in __call__
+    output = self._process_single(input, *args, **kwargs)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/modelscope/pipelines/base.py", line 247, in _process_single
+    out = self.forward(out, **forward_params)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/modelscope/pipelines/audio/separation_pipeline.py", line 61, in forward
+    est_source = self.model(mix)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/modelscope/models/base/base_torch_model.py", line 34, in __call__
+    return self.postprocess(self.forward(args[0], **kwargs))
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/modelscope/models/audio/separation/mossformer.py", line 57, in forward
+    mix_w = self.encoder(inputs)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/modelscope/models/audio/separation/mossformer.py", line 163, in forward
+    x = self.conv1d(x)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1194, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/torch/nn/modules/conv.py", line 313, in forward
+    return self._conv_forward(input, self.weight, self.bias)
+  File "/home2/aparna/miniconda3/envs/svoice/lib/python3.7/site-packages/torch/nn/modules/conv.py", line 310, in _conv_forward
+    self.padding, self.dilation, self.groups)
+RuntimeError: Calculated padded input size per channel: (0). Kernel size: (16). Kernel size can't be greater than actual input size
